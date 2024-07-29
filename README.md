@@ -36,9 +36,13 @@
 - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 - ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### Mobile Development
+- ![react](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+
+
 ### Tools
 
-- ![VS Code](https://img.shields.io/badge/VS-Code-blue?style=for-the-badge&logo=codenewbie&logoColor=#9013FE)
+- ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=codenewbie&logoColor=#9013FE)
 - ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 - ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
