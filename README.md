@@ -1,12 +1,10 @@
 <div>
 
-## Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> I am Om Ashish Soni 
-
-<img align='right' src="https://media1.giphy.com/media/St8Fupl4K8Lyl5E9G7/giphy.gif?cid=ecf05e47z9x7dwocmvenuctj07lj7sfrhua3xqsoklr0cch4&ep=v1_gifs_related&rid=giphy.gif&ct=s" width="24%">
+# Hi there! <img src="https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif" width="32"> I am Kawan Singh
 
 </div>
 
-# 💫 About Me:
+## 💫 About Me:
 🔭 **I’m currently working on:**  <br>Crafting seamless experiences with React and React Native, one component at a time.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects<br><br>🌱 **I’m currently learning:**  <br>Mastering Advanced Java with Spring Boot for Robust and Scalable Applications<br><br>💬 **Ask me about:**  <br>JavaScript, React, Node.js, Java, and any general software development questions.<br><br>
 
 
