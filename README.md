@@ -38,7 +38,7 @@
 
 ### Tools
 
-- ![VS Code](https://img.shields.io/badge/VS-Code?style=for-the-badge&logo=vscode%20web%20tokens)
+- ![VS Code](https://img.shields.io/badge/VS-Code-blue?style=for-the-badge&logo=codenewbie&logoColor=#9013FE)
 - ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 - ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white)
 
