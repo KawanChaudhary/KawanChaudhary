@@ -38,7 +38,7 @@
 
 ### Mobile Development
 - ![react](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-- ![react](https://img.shields.io/badge/react_native_Navigatiob-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+- ![react](https://img.shields.io/badge/react_native_Navigation-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 
 
 ### Tools
@@ -60,4 +60,4 @@
 ### Testing
 
 - ![postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-- ![jest](https://img.shields.io/badge/jest-%23FF6C37.svg?style=for-the-badge&logo=jest&logoColor=orange)
+- ![jest](https://img.shields.io/badge/jest-%23FF6C37.svg?style=for-the-badge&logo=jest&logoColor=white)
