@@ -9,7 +9,7 @@
 
 
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white)](https://x.com/Kawanchaudhary) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kawanchaudhary/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawanchaudhary/) [![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=#FFA116)](https://LeetCode.com/u/kawanchaudhary/) [![Codolio](https://img.shields.io/badge/Codolio-grey?logo=codio&logoColor=#DD6620)](https://codolio.com/profile/d88bRh59) 
+[![X](https://img.shields.io/badge/Twitter-black.svg?logo=x&logoColor=white)](https://x.com/Kawanchaudhary) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/kawanchaudhary/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kawanchaudhary/) [![LeetCode](https://img.shields.io/badge/LeetCode-black?logo=leetcode&logoColor=#FFA116)](https://LeetCode.com/u/kawanchaudhary/) [![Codolio](https://img.shields.io/badge/Codolio-grey?logo=codio&logoColor=#DD6620)](https://codolio.com/profile/d88bRh59) 
 
 # 💻 Tech Stack:
 
